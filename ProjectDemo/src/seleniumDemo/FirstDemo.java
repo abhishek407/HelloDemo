@@ -18,7 +18,7 @@ public class FirstDemo {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
-		String var = "Firefox";
+		String var = "Firefoxa";
 		
 		System.setProperty("webdriver.chrome.driver", "D:\\Selenium\\chromedriver_win32_79\\chromedriver.exe");
 		
